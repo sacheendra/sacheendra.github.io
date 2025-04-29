@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: I design, simulate, and evaluate cloud computing systems.
+subtitle: 
 
 profile:
   align: right
@@ -28,4 +28,6 @@ latest_posts:
 
 I am a PhD candidate in the <a href='https://atlarge-research.com/stalluri/'>Massivizing Computer Systems</a> group at <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a>. I investigate the design of cloud computing systems, particularly their resource management and fault tolerance subsystems.
 
-I had the opportunity to be involved in a variety of research and engineering projects over my career. For my PhD, I investigated the design of datacenter schedulers, the performance of serverless triggers, and user reports of cloud failures. Due to amazing collaborators, I got to work on the Kubernetes container orchestrator, Go and JSONPath compilers, and the reliability of LLM services.
+For my PhD, I investigated the design of datacenter schedulers. What features must an ecosystem provide for certain scheduler designs to become feasible? What APIs, beyond simple allocation, do workloads need? What is the impact of realistic failures?
+
+Due to amazing collaborators, I have had the opportunity to be involved in various research and engineering projects. I worked on the Kubernetes container orchestrator, tracing serverless applications, Go and JSONPath compilers, and the reliability of LLM services.
