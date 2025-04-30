@@ -26,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+_I will graduate soon and am looking for the next opportunity._
+
 I am a PhD candidate in the <a href='https://atlarge-research.com/stalluri/'>Massivizing Computer Systems</a> group at <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a>. I investigate the design of cloud computing systems, particularly their resource management and fault tolerance subsystems.
 
 For my PhD, I investigated the design of datacenter schedulers. What features must an ecosystem provide for certain scheduler designs to become feasible? What APIs, beyond simple allocation, do workloads need? What is the impact of realistic failures?
