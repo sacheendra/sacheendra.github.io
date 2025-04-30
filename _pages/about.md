@@ -30,4 +30,4 @@ I am a PhD candidate in the <a href='https://atlarge-research.com/stalluri/'>Mas
 
 For my PhD, I investigated the design of datacenter schedulers. What features must an ecosystem provide for certain scheduler designs to become feasible? What APIs, beyond simple allocation, do workloads need? What is the impact of realistic failures?
 
-Due to amazing collaborators, I have had the opportunity to be involved in various research and engineering projects. I worked on the Kubernetes container orchestrator, tracing serverless applications, Go and JSONPath compilers, and the reliability of LLM services.
+Due to amazing collaborators, I had the opportunity to be involved in various research and engineering projects. I worked on the Kubernetes container orchestrator, tracing serverless applications, Go and JSONPath compilers, and the reliability of LLM services.
