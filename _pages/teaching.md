@@ -26,7 +26,7 @@ I have supervised the following student projects at the Vrije Universiteit Amste
 | Year | Student Name | Project Title | Project Type | Recognition
 | ---- | --- | --- | --- | --- |
 | 2025 | Ritul Satish | Mewbie: Scale-Adjustable Benchmark for Microservice Deployments | MSc Thesis |  |
-| 2025 | Ritul Satish | [Performance Characterization of Data Store Event Trigger Mechanisms for Serverless Computing](https://atlarge-research.com/pdfs/triggerperf-ccgrid25.pdf) | MSc Independent Research Projects | Conference paper |
+| 2025 | Ritul Satish | [Performance Characterization of Data Store Event Trigger Mechanisms for Serverless Computing](https://atlarge-research.com/pdfs/triggerperf-ccgrid25.pdf) | MSc Independent Research Project | Conference paper |
 | 2024 | Anders Nõu   | [Investigating Performance Overhead of Distributed Tracing in Microservices and Serverless Systems](/assets/pdf/theses/anders_msc.pdf) | MSc Thesis | Workshop paper |
 | 2024 | Prashant Dommaraju | [Erroneous Kubernetes Object Generation using Structure-aware Fuzzing](/assets/pdf/theses/prashanth_msc.pdf) | MSc Thesis |  |
 | 2024 | Lennart Schulz   | [ShareBench: Performance Characterization of Distributed Resource-Sharing Mechanisms](/assets/pdf/theses/lennart_bsc.pdf) | BSc Thesis | Workshop paper |
@@ -34,12 +34,12 @@ I have supervised the following student projects at the Vrije Universiteit Amste
 | 2023 | Aratz Manterola Lasa | [Understanding Datacenter Scheduler Programming Abstractions: Reference Architecture Design, Scheduler Analysis, and Cost Quantification](/assets/pdf/theses/aratz_msc.pdf) | MSc Thesis | Conference paper |
 | 2022 | Aratz Manterola Lasa | [Design, Implementation and Evaluation of Container Migrations in Datacenter Scheduling](/assets/pdf/theses/aratz_project.pdf) | MSc Independent Research Project |  |
 | 2022 | Bogdan Ene | [Design, implementation, and evaluation of data intensive applications in cluster and serverless environments](/assets/pdf/theses/bogdan_ene_msc.pdf) | MSc Thesis | Workshop paper |
-| 2022 | Jakob Kyselica | [Analysis of Failures in Massive-Scale Multiplayer Online Games](/assets/pdf/theses/kyselica_msc.pdf) | MSc Thesis | |
+| 2022 | Jakob Kyselica | [Analysis of Failures in Massive-Scale Multiplayer Online Games](/assets/pdf/theses/kyselica_msc.pdf) | MSc Thesis (With Jesse Donkervliet) | |
 | 2022 | Shane Minnema | [A Statistical Analysis of Cloud Service Failures by Source, Popularity, and Severity](/assets/pdf/theses/shane_msc.pdf) | MSc Thesis | |
 | 2022 | Jelena Masic  | [Design and Experimental Exploration of Operational Techniques for Serverless Graph Processing](/assets/pdf/theses/jelena_bsc.pdf) | BSc Thesis | |
 | 2022 | Muhammad Ahsan  | [The OpenDC Microservice Simulator: Design, Implementation, and Experimentation](/assets/pdf/theses/ahsan_bsc.pdf) | BSc Thesis | |
 | 2022 | Mehmet Cetin  | [Characterizing User and Provider Reported Cloud Failures](/assets/pdf/theses/mehmet_bsc.pdf) | BSc Thesis | |
 | 2021 | Kai Zhang     | [Multi-detector Framework to Detect and Localize Failures in Microservice Applications](/assets/pdf/theses/kai_zhang_msc.pdf) | MSc Thesis | |
-| 2020 | Nick Tehrany     | [Evaluating Performance Characteristics of the PMDK Persistent Memory Software Stack](https://atlarge-research.com/pdfs/Nick_Tehrany_VU_BSc_Thesis.pdf) | BSc Thesis | ADS best thesis |
+| 2020 | Nick Tehrany     | [Evaluating Performance Characteristics of the PMDK Persistent Memory Software Stack](https://atlarge-research.com/pdfs/Nick_Tehrany_VU_BSc_Thesis.pdf) | BSc Thesis (With Animesh Trivedi) | ADS best thesis |
 
 

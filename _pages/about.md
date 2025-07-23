@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: website_photo.jpg
+  image: website_photo2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NU-11A13, VU Amsterdam</p>
