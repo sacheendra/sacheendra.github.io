@@ -9,7 +9,6 @@ profile:
   image: website_photo2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NU-11A13, VU Amsterdam</p>
     <p>Amsterdam, The Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,10 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-_I will graduate soon and am looking for the next opportunity._
+I work on autoscaling stateful systems at <a href='https://clickhouse.com/'>ClickHouse</a>. The problems I look at are when scaling is worthwhile and how to keep a fleet of autoscaling services running reliably.
 
-I am a PhD candidate in the <a href='https://atlarge-research.com/stalluri/'>Massivizing Computer Systems</a> group at <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a>. I investigate the design of cloud computing systems, particularly their resource management and fault tolerance subsystems.
-
-For my PhD, I investigated the design of datacenter schedulers. What features must an ecosystem provide for certain scheduler designs to become feasible? What APIs, beyond simple allocation, do workloads need? What is the impact of realistic failures?
+Previously, I researched resource management and fault tolerance of cloud computing systems. My research explored how ecosystem capabilities shape scheduler design, which APIs workloads need beyond resource allocation, and how realistic failures affect system behavior. I earned my PhD from <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a> in the <a href='https://atlarge-research.com/stalluri/'>Massivizing Computer Systems</a> group.
 
 Due to amazing collaborators, I had the opportunity to be involved in various research and engineering projects. I worked on the Kubernetes container orchestrator, tracing serverless applications, Go and JSONPath compilers, and the reliability of LLM services.
